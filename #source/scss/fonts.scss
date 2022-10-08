@@ -1,0 +1,49 @@
+@font-face {
+  font-family: "Palatino Linotype";
+  src: url("../fonts/Palatino/Palationo_roman.woff2") format("woff2"),
+    url("../fonts/Palatino/Palationo_roman.woff") format("woff"),
+    url("../fonts/Palatino/Palationo_roman.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Palatino Linotype";
+  src: url("../fonts/Palatino/Palationo_bold.woff2") format("woff2"),
+    url("../fonts/Palatino/Palationo_bold.woff") format("woff"),
+    url("../fonts/Palatino/Palationo_bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Palatino Linotype";
+  src: url("../fonts/Palatino/Palationo_boldItalic.woff2") format("woff2"),
+    url("../fonts/Palatino/Palationo_boldItalic.woff") format("woff"),
+    url("../fonts/Palatino/Palationo_boldItalic.ttf") format("truetype");
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Palatino Linotype";
+  src: url("../fonts/Palatino/Palationo_italic.woff2") format("woff2"),
+    url("../fonts/Palatino/Palationo_italic.woff") format("woff"),
+    url("../fonts/Palatino/Palationo_italic.ttf") format("truetype");
+  font-style: italic;
+  font-weight: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Boyarsky";
+  src: url("../fonts/Boyrskiy/boyarsky.woff2") format("woff2"),
+    url("../fonts/Boyrskiy/boyarsky.woff") format("woff"),
+    url("../fonts/Boyrskiy/boyarsky.ttf") format("truetype");
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+}
